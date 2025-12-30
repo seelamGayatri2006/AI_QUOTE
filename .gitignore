@@ -1,9 +1,3 @@
 # created by virtualenv automatically
-.env
-Lib/
-Scripts/
-Include/
-__pycache__/
-*.pyc
-CACHEDIR.TAG
+
 
